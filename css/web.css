@@ -1,0 +1,253 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 100%;
+	float: left;
+}
+.header{
+	width: 100%;
+	float: left;
+	background-color: #1424F3;
+	position: fixed;
+}
+.address{
+	width: 80%;
+	float: left;
+	margin: 1% 0% 1% 4%;
+}
+.im{
+	width: 16%;
+	float: left;
+	margin: 1% 0% 1% 0%;
+}
+.em{
+	margin-left: 1%;
+}
+.menu{
+	width: 100%;
+	float: left;
+	margin-top: 5%;
+}
+.logo{
+	width: 11%;
+	float: left;
+	margin: 0% 0% 0% 4%;
+}
+.men{
+	width: 45%;
+	float: left;
+	margin: 0% 0% 0% 40%
+}
+.log{
+	margin: 0% 20% 4% 12%;
+	max-width: 80%;
+}
+.search{
+  width: 1px;
+  border: 1px solid green;
+  margin-left: 2%;
+}
+nav ul li{ 
+	display: inline;
+	list-style: none;
+	margin: 4% 0% 4% 5%;
+	padding: 1px 1px;
+}
+.home{
+	width: 100%;
+	float: left;
+	background-image: url("background3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.learn{
+	padding: 4px 4px;
+	background-color: #0718F9;
+	margin: 1% 0% 4% 10%;
+}
+.wel{
+	width: 100%;
+	float: left;
+}
+.three{
+	width: 100%;
+	float: left;
+	background-image: url("background2.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.read{
+	padding: 4px 4px;
+	background-color: #0718F9;
+	margin: 1% 0% 10% 47%;
+}
+.team{
+	width: 100%;
+	float: left;
+	background-color: white;
+}
+.forth{
+	width: 100%;
+	float: left;
+	background-color: gray;
+}
+.w{
+	width: 13%;
+	float: left;
+	margin: 4% 0% 4% 22%;
+	background-color: white;
+}
+.x{
+	width: 13%;
+	float: left;
+	margin: 4% 0% 4% 2%;
+	background-color: white;
+}
+.y{
+	width: 13%;
+	float: left;
+	margin: 4% 0% 4% 2%;
+	background-color: white;
+}
+.z{
+	width: 13%;
+	float: left;
+	margin: 4% 20% 4% 2%;
+	background-color: white;
+}
+.amr{
+	max-width: 50%;
+	margin: 0% 0% 0% 25%;
+}
+.amm{
+	max-width: 50%;
+	margin: 6% 0% 0% 25%;
+}
+.fifth{
+	width: 100%;
+	float: left;
+}
+.bu{
+	width: 13%;
+	float: left;
+	margin: 4% 0% 4% 22%;
+	background-color: #EEEEF5;
+}
+.inv{
+	width: 13%;
+	float: left;
+	margin: 4% 0% 4% 2%;
+	background-color: #EEEEF5;
+}
+.exi{
+	width: 13%;
+	float: left;
+	margin: 4% 0% 4% 2%;
+	background-color: #EEEEF5;
+}
+.mark{
+	width: 13%;
+	float: left;
+	margin: 4% 20% 4% 2%;
+	background-color: #EEEEF5;
+}
+.bus{
+	margin: 8% 45% 2% 45%;
+	max-width: 50%;
+	float: left;
+}
+.six{
+	width: 100%;
+	float: left;
+	background-image: url("background4.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.re{
+	padding: 4px 4px;
+	background-color: #0718F9;
+	margin: 20% 0% 10% 45%;
+}
+.seven{
+	width: 100%;
+	float: left;
+}
+.eight{
+	width: 100%;
+	float: left;
+	background-color: #044695;
+}
+.request{
+	width: 20%;
+	float: left;
+	margin: 5% 2% 0% 10%;
+}
+.form{
+	width: 55%;
+	float: left;
+	margin: 5% 10% 4% 3%;
+}
+.first{
+	margin: 0% 1% 1% 0%;
+	padding: 2px 2px;
+}
+.last{
+	margin: 0% 0% 1% 0%;
+	padding: 2px 2px;
+}
+.company{
+	margin: 0% 1% 1% 0%;
+	padding: 2px 2px;
+}
+.mail{
+	margin: 0% 0% 1% 0%;
+	padding: 2px 2px;
+}
+.massage{
+	padding: 5px 5px;
+	margin-bottom: 2%;
+}
+.sent{
+	margin: 0% 0% 5% 0%;
+	padding: 6px 6px;
+}
+.nine{
+	width: 100%;
+	float: left;
+	background-color: gray;
+}
+.us{
+	width: 20%;
+	float: left;
+	margin: 5% 1% 5% 10%;
+}
+.act{
+	width: 10%;
+	float: left;
+	margin: 5% 1% 5% 1%;
+}
+.ces{
+	width: 10%;
+	float: left;
+	margin: 5% 1% 5% 1%;
+}
+.ter{
+	width: 34%;
+	float: left;
+	margin: 5% 10% 5% 1%;
+}
+.righ{
+	width: 100%;
+	float: left;
+}
+.mai{
+	padding: 6px 6px;
+}
+.sen{
+	padding: 6px 6px;
+	background-color: blue;
+	margin-right: 57%;
+}
+
